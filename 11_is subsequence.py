@@ -3,7 +3,7 @@ class Solution(object):
         """
         :type s: str
         :type t: str
-        :rtype: bool
+        :rtype:  bool 
         """
         s_i=0
         if s=='':
